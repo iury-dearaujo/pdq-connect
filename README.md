@@ -204,4 +204,5 @@ Licenciado sob [Apache-2.0](LICENSE).
 
 ## 👤 Autor
 
-**Iury Araujo** – [iury.araujo@senior.com.br](mailto:iury.araujo@senior.com.br)
+**Iury Araujo** – [iury.araujo@senior.com.br](mailto:iury.de.araujo9@gmail.com)
+
